@@ -1,0 +1,144 @@
+[16-Mar-2021 14:24:41 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:25:07 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:25:37 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:45:16 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:47:18 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:47:23 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:48:17 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:48:49 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:49:49 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:50:12 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:50:22 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:50:37 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:50:40 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:50:44 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:50:54 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:58:30 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 14:59:30 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
+[16-Mar-2021 15:03:53 UTC] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [view.index] not defined. in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:429
+Stack trace:
+#0 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(708): Illuminate\Routing\UrlGenerator->route('view.index', 'home', true)
+#1 /home/mbondouk/pelogroup.net/storage/framework/views/90c72dc822f05e58321370ff98bb30e82614c984.php(11): route('view.index', 'home')
+#2 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/mbondouk/...')
+#3 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/mbondouk/...', Array)
+#5 /home/mbondouk/pelog in /home/mbondouk/pelogroup.net/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 429
